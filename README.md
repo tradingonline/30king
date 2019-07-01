@@ -1,0 +1,2 @@
+# 30king
+GitHub Pages
